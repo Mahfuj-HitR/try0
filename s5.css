@@ -1,0 +1,198 @@
+*{margin: 0;padding: 0;}
+
+body{
+	background: lightblue;
+}
+
+.container{
+	width: 1170px;
+	margin: 50px auto;
+	background: white;
+	display: block;
+	overflow: hidden;
+}
+
+.left-side{
+	width: 25%;
+	float: left;
+	background: #D0DFF1;
+	text-align: center;
+	padding: 50.9px 45px;
+	box-sizing: border-box;
+}
+
+.right-side{
+	width: 75%;
+	float: right;
+	background: white;
+	text-align: center;
+	padding: 40px 50px;
+	box-sizing: border-box;
+}
+
+.l-container{
+	width: 100%;
+	margin: auto;
+	display: block;
+}
+
+.l-container img{
+	border-radius: 50%;
+	width: 60%;
+}
+
+h2{
+	background: #52555C;
+	margin-top: 20px;
+	color: white;
+	font-family: "Bahnschrift SemiBold";
+	font-size: 20px;
+	padding: 4px;
+}
+
+.firstp{
+	margin-top: 14px;
+	overflow: hidden;
+}
+
+.firstp-left{
+	width: 20%;
+	float: left;
+	display: block;
+	box-sizing: border-box;
+}
+
+.firstp-left img{
+	padding: 2.7px;
+}
+
+.firstp-right{
+	width: 80%;
+	float: right;
+	padding-right: 10px;
+	text-align: left;
+	box-sizing: border-box;
+}
+
+.p1{
+	font-size: 19px;
+	padding: 4.2px;
+}
+
+.p2{
+	font-size: 14.4px;
+	font-family: tahoma;
+	padding-top: 7.1px;
+}
+
+.p3{
+	padding-top: 18.8px;
+	font-size: 16px;
+}
+
+.p4{
+	padding-top: 18.0px;
+	font-size: 12.5px;
+	font-family: Arial;
+}
+
+.secondp{
+	margin-top: 55px;
+}
+
+.secondp P{
+	font-size: 20PX;
+}
+
+#c{
+	font-size: 15px;
+}
+
+.thirdp{
+	margin-top: 62px;
+	display: block;
+}
+
+.thirdp h3{
+	padding: 15px;
+	font-family: "Bahnschrift SemiBold";
+	font-size: 14px;
+	letter-spacing:2px;
+}
+
+.thirdp ul{
+	display: inline-block;
+	padding-right: 20px;
+}
+
+.thirdp ul li{
+	padding: 15px 0px 0px 10px;
+	text-align: left;
+}
+
+#th{
+	text-align: center;
+	font-family: "Bahnschrift SemiBold";
+	font-size: 17px;
+	padding-top: 20PX;
+}
+
+.right-side h1{
+	letter-spacing: 5PX;
+	margin-top: 20px;
+	border: 2px solid;
+	font-family: "Bahnschrift SemiBold";
+}
+
+.right-side h2{
+	background: #DEE5EB;
+	color: black;
+	font-family: "Bahnschrift SemiBold";
+	margin-bottom: 25px;
+}
+
+.right-side p{
+	text-align: justify;
+	font-family: "Times New Roman";
+	font-size: 18px;
+}
+
+
+.right-side ul li a{
+	text-decoration: none;
+	color: black;
+	padding-left: 10px;
+
+}
+
+.right-side ul li{
+	text-align: left;
+	padding-top: 12px;
+}
+
+#th1{
+	font-family: "Bahnschrift SemiBold";
+	font-size: 16px;
+}
+
+#th2{
+	padding-top: 2px;
+	font-size: 14px;
+}
+
+.right-side ul{
+	padding-top: 20px;
+	display: inline-block;
+}
+
+.right-side ul li a{
+	font-size: 16px;
+}
+
+#pad{
+	padding-left: 90px;
+}
+
+#link li a:hover{
+	color: blue;
+}
